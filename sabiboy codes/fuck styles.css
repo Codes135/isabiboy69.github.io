@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "poppins" , sans-serif;
+}
+body{
+        justify-content: center;
+        min-height: 100vh;
+        background: url(IMG-20240609-WA0030.jpg-removebg-preview.png) no-repeat;
+        background-size: cover;
+        background-color: #260581;
+      
+}
+.elfsight-app-8fa867c0-8d4f-49d9-9b7a-a3fd173b802f{
+width: 100%;
+height: 100vh;
+display: flex;
+align-items: center;
+justify-content: center;
+color: #cacaca;
+transition: transform 0.4s, top 0.4s;
+display: block;
+visibility: visible;
+
+}
